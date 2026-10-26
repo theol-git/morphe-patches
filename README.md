@@ -4,9 +4,24 @@ Personal [Morphe](https://morphe.software) patches.
 
 ## Patches
 
-- **Pro unlock** (`app.prolauncher`, Pro Launcher v2.4.3): forces the trial-window check
-  `x9.v0.h()` to `true`, which makes `v0.t()` and the subscriber pro gate true, and suppresses
-  the trial sheet in `ComposeMainActivity.onResume`.
+<!-- PATCHES_START EXPANDED -->
+> **[v1.0.0-dev.1](https://github.com/theol-git/morphe-patches/releases/tag/v1.0.0-dev.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;1 patches total
+<details open>
+<summary>📦 Pro Launcher&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| v2.4.3 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Pro unlock](#pro-unlock) | Makes x9.v0.h() always return true and hides the trial sheet that this causes. |  |
+
+</details>
+
+<!-- PATCHES_END -->
 
 ## Add to Morphe Manager
 
