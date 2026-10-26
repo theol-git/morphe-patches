@@ -10,7 +10,7 @@ Personal [Morphe](https://morphe.software) patches.
 
 ## Add to Morphe Manager
 
-Add the source from GitHub: `morphe.software/add-source?github=<your-github-user>/morphe-patches`
+Add the source from GitHub: `morphe.software/add-source?github=theol-git/morphe-patches`
 (replace the placeholder with your GitHub user, after the repo is pushed and has a release).
 
 ## Development
